@@ -11,6 +11,7 @@ Use HA proxy as a layer 4 Load Balancer.
 5. restart haproxy service: `sudo systemctl restart haproxy`
 6. use your browser with guest VM IP and `80` port or curl `0.0.0.0:80`, you'll see response from different servers
 
-[Original article][1]
+[Original article][1] and [explanation][2] of most popular configuration parameters.
 
 [1]: https://serversforhackers.com/c/load-balancing-with-haproxy
+[2]: https://www.haproxy.com/blog/exploring-the-haproxy-stats-page/
