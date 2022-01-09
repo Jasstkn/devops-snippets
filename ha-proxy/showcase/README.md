@@ -14,4 +14,4 @@ Use HA proxy as a layer 4 Load Balancer.
 [Original article][1] and [explanation][2] of most popular configuration parameters.
 
 [1]: https://serversforhackers.com/c/load-balancing-with-haproxy
-[2]: https://www.haproxy.com/blog/exploring-the-haproxy-stats-page/
+[2]: https://www.haproxy.com/blog/the-four-essential-sections-of-an-haproxy-configuration/
